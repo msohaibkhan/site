@@ -1,0 +1,372 @@
+@font-face {
+  font-family: 'nbtico';
+  src:  url('../fonts/nbtico.eot?1ikzd3');
+  src:  url('../fonts/nbtico.eot?1ikzd3#iefix') format('embedded-opentype'),
+    url('../fonts/nbtico.ttf?1ikzd3') format('truetype'),
+    url('../fonts/nbtico.woff?1ikzd3') format('woff'),
+    url('../fonts/nbtico.svg?1ikzd3#nbtico') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="nbticon-"]:before, [class*=" nbticon-"]:before {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'nbtico' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  display: inline-block;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nbticon-book-open:before {
+  content: "\e95f";
+}
+.nbticon-suitcase-1:before {
+  content: "\e97e";
+}
+.nbticon-ticket-1:before {
+  content: "\e98d";
+}
+.nbticon-pencil-alt:before {
+  content: "\eb0c";
+}
+.nbticon-share-2:before {
+  content: "\eb2a";
+}
+.nbticon-award-2:before {
+  content: "\ebbd";
+}
+.nbticon-art-gallery:before {
+  content: "\ec2c";
+}
+.nbticon-college:before {
+  content: "\ec38";
+}
+.nbticon-laptop-2:before {
+  content: "\ed9a";
+}
+.nbticon-location-7:before {
+  content: "\ee0f";
+}
+.nbticon-cog-6:before {
+  content: "\ee14";
+}
+.nbticon-multiple-users-silhouette:before {
+  content: "\e900";
+}
+.nbticon-books-stack2:before {
+  content: "\e901";
+}
+.nbticon-books-stack:before {
+  content: "\e902";
+}
+.nbticon-college-studying2:before {
+  content: "\e903";
+}
+.nbticon-college-studying:before {
+  content: "\e904";
+}
+.nbticon-old-fashion-briefcase:before {
+  content: "\e905";
+}
+.nbticon-draw-a-picture2:before {
+  content: "\e906";
+}
+.nbticon-draw-a-picture:before {
+  content: "\e907";
+}
+.nbticon-laptop:before {
+  content: "\e908";
+}
+.nbticon-html-5-logotype:before {
+  content: "\e909";
+}
+.nbticon-website-design2:before {
+  content: "\e90a";
+}
+.nbticon-website-design:before {
+  content: "\e90b";
+}
+.nbticon-black-graduation-cap2:before {
+  content: "\e90c";
+}
+.nbticon-black-graduation-cap:before {
+  content: "\e90d";
+}
+.nbticon-chevron-with-circle-right:before {
+  content: "\e90e";
+}
+.nbticon-up-arrow2:before {
+  content: "\e90f";
+}
+.nbticon-up-arrow3:before {
+  content: "\e910";
+}
+.nbticon-up-arrow4:before {
+  content: "\e911";
+}
+.nbticon-up-arrow:before {
+  content: "\e912";
+}
+.nbticon-bus:before {
+  content: "\e913";
+}
+.nbticon-help:before {
+  content: "\e914";
+}
+.nbticon-help-button:before {
+  content: "\e915";
+}
+.nbticon-padlock2:before {
+  content: "\e916";
+}
+.nbticon-padlock:before {
+  content: "\e917";
+}
+.nbticon-open-padlock2:before {
+  content: "\e918";
+}
+.nbticon-open-padlock:before {
+  content: "\e919";
+}
+.nbticon-note:before {
+  content: "\e91a";
+}
+.nbticon-note-outlined-symbol:before {
+  content: "\e91b";
+}
+.nbticon-font-selection-editor:before {
+  content: "\e91c";
+}
+.nbticon-phone-call:before {
+  content: "\e91d";
+}
+.nbticon-placeholder:before {
+  content: "\e91e";
+}
+.nbticon-big-speech-balloon:before {
+  content: "\e91f";
+}
+.nbticon-speech-bubble:before {
+  content: "\e920";
+}
+.nbticon-black-user-shape:before {
+  content: "\e921";
+}
+.nbticon-fullscreen:before {
+  content: "\e922";
+}
+.nbticon-link:before {
+  content: "\e923";
+}
+.nbticon-link2:before {
+  content: "\e924";
+}
+.nbticon-quotations2:before {
+  content: "\e925";
+}
+.nbticon-quotations:before {
+  content: "\e926";
+}
+.nbticon-linkedin:before {
+  content: "\e927";
+}
+.nbticon-google-plus-old:before {
+  content: "\e928";
+}
+.nbticon-twitter:before {
+  content: "\e929";
+}
+.nbticon-facebook:before {
+  content: "\e92a";
+}
+.nbticon-skype:before {
+  content: "\e92b";
+}
+.nbticon-close-envelope:before {
+  content: "\e92c";
+}
+.nbticon-icon:before {
+  content: "\e92d";
+}
+.nbticon-location-pin:before {
+  content: "\e92e";
+}
+.nbticon-play-button:before {
+  content: "\e92f";
+}
+.nbticon-pdf:before {
+  content: "\e930";
+}
+.nbticon-envelope:before {
+  content: "\e931";
+}
+.nbticon-profile:before {
+  content: "\e932";
+}
+.nbticon-left-quote2:before {
+  content: "\e933";
+}
+.nbticon-left-quote:before {
+  content: "\e934";
+}
+.nbticon-calendar:before {
+  content: "\e935";
+}
+.nbticon-schedule-button:before {
+  content: "\e936";
+}
+.nbticon-favourite-symbol:before {
+  content: "\e937";
+}
+.nbticon-coin-icon:before {
+  content: "\e938";
+}
+.nbticon-characters-interface-sign:before {
+  content: "\e939";
+}
+.nbticon-teacher-writing-on-whiteboard:before {
+  content: "\e93a";
+}
+.nbticon-teacher-reading:before {
+  content: "\e93b";
+}
+.nbticon-plus-zoom-or-search2:before {
+  content: "\e93c";
+}
+.nbticon-plus-zoom-or-search:before {
+  content: "\e93d";
+}
+.nbticon-search2:before {
+  content: "\e93e";
+}
+.nbticon-search:before {
+  content: "\e93f";
+}
+.nbticon-left-arrow2:before {
+  content: "\e940";
+}
+.nbticon-left-arrow:before {
+  content: "\e941";
+}
+.nbticon-book:before {
+  content: "\e942";
+}
+.nbticon-google-plus:before {
+  content: "\e943";
+}
+.nbticon-pinterest:before {
+  content: "\e944";
+}
+.nbticon-blogger:before {
+  content: "\e945";
+}
+.nbticon-instagram:before {
+  content: "\e946";
+}
+.nbticon-handphone:before {
+  content: "\e947";
+}
+.nbticon-menu:before {
+  content: "\e948";
+}
+.nbticon-close:before {
+  content: "\e949";
+}
+.nbticon-close2:before {
+  content: "\e94a";
+}
+.nbticon-quote-left:before {
+  content: "\e94b";
+}
+.nbticon-quote-right:before {
+  content: "\e94c";
+}
+.nbticon-angle-right:before {
+  content: "\e94d";
+}
+.nbticon-angle-left:before {
+  content: "\e94e";
+}
+.nbticon-chevron-thin-left:before {
+  content: "\e94f";
+}
+.nbticon-chevron-thin-right:before {
+  content: "\e950";
+}
+.nbticon-check-circle:before {
+  content: "\e951";
+}
+.nbticon-circle-thin:before {
+  content: "\e952";
+}
+.nbticon-circle:before {
+  content: "\e953";
+}
+.nbticon-retweet:before {
+  content: "\e954";
+}
+.nbticon-reply:before {
+  content: "\e955";
+}
+.nbticon-globe:before {
+  content: "\e956";
+}
+.nbticon-businesswoman:before {
+  content: "\e957";
+}
+.nbticon-tags:before {
+  content: "\e958";
+}
+.nbticon-thin-down:before {
+  content: "\e959";
+}
+.nbticon-chevron-thin-up:before {
+  content: "\e95a";
+}
+.nbticon-angle-down:before {
+  content: "\e95b";
+}
+.nbticon-angle-up:before {
+  content: "\e95c";
+}
+.nbticon-cross:before {
+  content: "\e95d";
+}
+.nbticon-home:before {
+  content: "\e95e";
+}
+.nbticon-book2:before {
+  content: "\e960";
+}
+.nbticon-lesson:before {
+  content: "\e961";
+}
+.nbticon-manager-profile:before {
+  content: "\e962";
+}
+.nbticon-student:before {
+  content: "\e963";
+}
+.nbticon-more:before {
+  content: "\e964";
+}
+.nbticon-angle-double-right:before {
+  content: "\e965";
+}
+.nbticon-angle-double-left:before {
+  content: "\e966";
+}
+.nbticon-quotes-left:before {
+  content: "\e977";
+}
+.nbticon-quotes-right:before {
+  content: "\e978";
+}
